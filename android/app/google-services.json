@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337511408390",
+    "project_id": "thozhilali-app",
+    "storage_bucket": "thozhilali-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337511408390:android:6d93e46ffa6f07db13b487",
+        "android_client_info": {
+          "package_name": "com.example.thzhilali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uR5pcnvBC68NT-vGWRoBNpKZJDwgqRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
